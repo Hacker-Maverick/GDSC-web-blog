@@ -157,7 +157,9 @@ scale: 1.01 1.01;
 }
 .blogs .blogsContent .right .username{
     text-align: end;
-    color: #02ccff;
+    color: yellow;
+    padding-top: 8vh;
+    
 }
 
 .blogs{
