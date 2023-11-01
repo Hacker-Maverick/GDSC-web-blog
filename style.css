@@ -110,9 +110,9 @@ main .mainJam img {
     flex-direction: column;
     align-items: center;
     justify-content: center !important;
-    @media(min-width:600px){padding: 10px 12vw;}
+    @media screen and (min-width:600px){padding: 10px 12vw;}
 
-@media(max-width:600px){padding:10px 5vw;}}
+@media screen and (max-width:600px){padding:10px 5vw;}}
 .blogs{
 color: white !important;
 padding: 30px;
