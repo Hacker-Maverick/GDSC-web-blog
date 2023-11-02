@@ -220,3 +220,6 @@ scale: 1.01 1.01;
     color: rgb(122, 122, 122);
     padding-bottom: 1px;
 }
+.link:hover{
+    font-size: 16px;
+    color: rgb(124,124,124);
